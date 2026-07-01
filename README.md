@@ -8,7 +8,7 @@ governance, risk, and compliance (GRC) frameworks and security auditing.
 | Lab | Frameworks/Tools | Writeup |
 |-----|-----------------|---------|
 | Hospital Cybersecurity Audit Scenario | ISO 27001, PIPEDA, PDCA | [View](hospital-iso27001-audit.md) |
- Install & Run GoPhish Phishing Framework | GoPhish, Linux, CLI | [View](Install & Run Run GoPhish Phishing Framework.md.md) |
+ Install & Run GoPhish Phishing Framework | GoPhish, Linux, CLI | [View](Install&Run-GoPhish-Phishing-Framework.md) |
 
 ---
 
