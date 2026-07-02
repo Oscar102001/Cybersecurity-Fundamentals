@@ -171,5 +171,3 @@ id Oscar
 # Search for user in passwd file
 grep Oscar /etc/passwd
 ```
-
-### Output Summary
